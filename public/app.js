@@ -5,12 +5,13 @@ function getnumber(num){
     result.value+=num;
     
     
+    
     }
 
    function cle(){
 
    var result=document.getElementById("result");
-   result.value="";  
+   result.value=" ";  
 
    } 
 
